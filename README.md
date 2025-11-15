@@ -52,7 +52,8 @@ By understanding how users track their daily activity, sleep, and calorie expend
 6. Seasonal Campaigns—Launch “Winter Wellness” programs or discounts during low-activity months. Promote app challenges in spring/summer when users are more active.
 
 **Insights and possible Marketing Strategies**
-![Dashboard Preview](visuals/dashboard_preview.png)
+![Dashboard Preview](visuals/Bellabeat Case Study Dashboard.png)
+
 
 
 
