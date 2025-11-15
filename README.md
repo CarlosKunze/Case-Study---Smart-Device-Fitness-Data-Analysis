@@ -73,8 +73,11 @@ Due to the small amount of data available, these are rather rough recommendation
 The following advice now counts for the average user of our 30 participants. Generally I would recommend separating the users into "activity engagement" types and tailor marketing for each type (e.g. for active users --> performance based, for lightly active users --> mindful based marketing)
 
 ***1. Understanding the user:***
+
 The average smart device user spends 83 % percent of his time in sedentary position and when sport/ activity is done most users prefer light activity.
+
 ***Marketing implication***
+
 Bellabeat’s messaging should focus on balance and well-being, not athletic performance.
 
 * Promote Bellabeat products as tools for daily motivation (e.g. stand up in between sedentary time), mindfulness, and gentle activity tracking.
@@ -86,6 +89,7 @@ Bellabeat’s messaging should focus on balance and well-being, not athletic per
 * Seeing a small peak in fairly intensive activity engagement on Fridays could be interesting to continue investigating. For example user types could be categorized and for said "fairly active" users push up notifications or challenges could be sent on Friday afternoons --> more research needs to be done here.
 
 ***2. Time marketing hours:***
+
 Our heatmap (calories) shows us that the most active parts of the day fall in the afternoon (probably after work)
 
 ***Marketing implication:***
@@ -94,6 +98,7 @@ Our heatmap (calories) shows us that the most active parts of the day fall in th
 * Collaborate with fitness influencers to post at those high-engagement hours.
 
 ***3. Time marketing days:***
+
 We see a drop in daily steps and burned calories on Tuesdays (We should dig deeper into why !). For know some marketing insights could be:
 
 * Promote Tuesdays as recovery days; sending mindful messages or reminders that recovery is necessary for consistency
@@ -104,12 +109,14 @@ We see a drop in daily steps and burned calories on Tuesdays (We should dig deep
 The sleep per day is pretty evenly distributed over the week and on average users get between 6-8 hours of sleep.
 
 ***Marketing implication***
+
 * Here we need to dig deeper to isolate users with worse sleeping patterns and then offer personalized advertisement or offer generalized advertisement to really achieve 8 hours + of sleep. This way we can promote Bellabeat’s sleep and recovery features (Time watch, Leaf tracker).
 E.g.
 Create awareness campaigns about how better sleep improves energy and focus.
 Example: “Better rest, better balance — track your sleep with Bellabeat.”
 
 ***5. Daily steps***
+
 The scatter plot shows a clear positive relationship: more steps → more calories burned. Even moderate increases in activity can significantly impact calorie expenditure.
 
 ***Marketing implication***
@@ -122,6 +129,7 @@ Reinforce Bellabeat’s brand as a supportive wellness partner, not a performanc
 
 
 ***Further analysis***
+
 Some questions from the Ask phase could not be answered due to the small amount of data. Some more interesting open questions could be:
 
 Are there seasonal trends?
@@ -138,6 +146,7 @@ Gain more data on sleep to promote sleep related products (like "Leaf" and "Time
 Gather additional data on drinking/ hydration behavior to promote "Spring" (Bellabeat's own water bottle) product
 
 ***Summary***
+
 The Fitbit dataset reveals that users are moderately active, routine-driven, and focused on balanced wellness rather than performance.
 This positions Bellabeat perfectly to market its products as lifestyle companions — supporting consistent movement, sleep, hydration, and mindfulness for long-term well-being.
 
