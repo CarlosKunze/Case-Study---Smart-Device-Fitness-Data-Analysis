@@ -66,7 +66,7 @@ Before analyzing the sleeping habits, it is important to keep in mind that we ha
 
 Ultimately, we plotted the total daily steps against the burned calories. The US National Institute of health (NIH) recommends about 8000 steps per day as it is linked with a reduced risk of death. Looking at our diagram and analyzing the average steps per weekday, we can clearly see that most of our users do not achieve this number. Furthermore, we see a statistical significant linear correlation (p< 0,0001) between steps and calories burned. However, it should be noted that the measurement points are widely distributed from our straight line. The R² value of 0.30 suggests that daily steps account for roughly one-third of the variation in calories burned. This indicates a noticeable but not strong linear relationship.
 
-##Marketing Strategy
+## 🎨 Marketing Strategy
 
 Due to the small amount of data available, these are rather rough recommendations or ideas or areas in which further resources could be invested. We have throughout the low statistical significance. However, as this is a case study, we are still providing strategy recommendations based the insights we could uncover with the available data.
 
