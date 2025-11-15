@@ -24,7 +24,7 @@ Bellabeat’s product positioning, messaging, and customer engagement.
 
 ## 🛠 Tools  
 - **R (tidyverse, lubridate, janitor)** – data cleanup & processing  
-- **Google Colab** – execution environment  
+- **Google Colab** – execution environment ("runtime type" R)  
 - **Tableau Public** – visualization dashboard  
 - **GitHub** – project versioning & documentation 
 
